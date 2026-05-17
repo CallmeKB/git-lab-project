@@ -1,1 +1,2 @@
 "Hello git version control kaushal" 
+"Second update in project" 
